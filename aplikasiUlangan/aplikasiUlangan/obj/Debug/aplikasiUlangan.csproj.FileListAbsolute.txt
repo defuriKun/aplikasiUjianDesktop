@@ -1,0 +1,161 @@
+D:\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe.config
+D:\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe
+D:\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.pdb
+D:\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.dll
+D:\aplikasiUlangan\aplikasiUlangan\bin\Debug\Google.Protobuf.dll
+D:\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.xml
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csprojAssemblyReference.cache
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fadmin.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fguru.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fhasil.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmengerjakan.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fHomeSiswa.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fjawaban.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fkelas.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.flogin.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmapel.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsiswa.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsoal.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsplashcreeen.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fulangan.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fuser.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.Properties.Resources.resources
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.GenerateResource.cache
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CoreCompileInputs.cache
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CopyComplete
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.exe
+D:\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe.config
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\Google.Protobuf.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\stdole.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.xml
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csprojAssemblyReference.cache
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fadmin.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fguru.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fhasil.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmengerjakan.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fHomeSiswa.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fjawaban.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fkelas.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.flogin.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmapel.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsiswa.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsoal.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsplashcreeen.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fulangan.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fuser.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.Properties.Resources.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.GenerateResource.cache
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CoreCompileInputs.cache
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CopyComplete
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.exe
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe.config
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\Google.Protobuf.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\stdole.dll
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.xml
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csprojAssemblyReference.cache
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fadmin.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fguru.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fhasil.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmengerjakan.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fHomeSiswa.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fjawaban.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fkelas.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.flogin.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmapel.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsiswa.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsoal.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsplashcreeen.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fulangan.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fuser.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.Properties.Resources.resources
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.GenerateResource.cache
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CoreCompileInputs.cache
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CopyComplete
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.exe
+C:\Users\acep\source\repos\aplikasiUlangan 2.1\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe.config
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.exe
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\Google.Protobuf.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\stdole.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\MySql.Data.xml
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fadmin.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.FCetak.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fguru.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fhasil.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmengerjakan.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fHomeSiswa.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fjawaban.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fkelas.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.flogin.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fmapel.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.FSementara.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsiswa.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsoal.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fsplashcreeen.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fulangan.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.fuser.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.Properties.Resources.resources
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.GenerateResource.cache
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CoreCompileInputs.cache
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csproj.CopyComplete
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.exe
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.pdb
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\obj\Debug\aplikasiUlangan.csprojAssemblyReference.cache
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\itextsharp.dll
+C:\Users\acep\source\repos\aplikasiUlangan\aplikasiUlangan\aplikasiUlangan\bin\Debug\itextsharp.xml

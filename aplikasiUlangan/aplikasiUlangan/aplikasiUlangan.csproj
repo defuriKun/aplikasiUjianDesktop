@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7FF9BC8F-4979-4E50-9E50-1FFA0776D031}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>aplikasiUlangan</RootNamespace>
+    <AssemblyName>aplikasiUlangan</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>raf,360x360,075,t,fafafa ca443f4786.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fadmin.designer.cs">
+      <DependentUpon>fadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCetak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCetak.Designer.cs">
+      <DependentUpon>FCetak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fguru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fguru.designer.cs">
+      <DependentUpon>fguru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fhasil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fhasil.designer.cs">
+      <DependentUpon>fhasil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmengerjakan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmengerjakan.Designer.cs">
+      <DependentUpon>fmengerjakan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHomeSiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHomeSiswa.designer.cs">
+      <DependentUpon>fHomeSiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fjawaban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fjawaban.designer.cs">
+      <DependentUpon>fjawaban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fkelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fkelas.designer.cs">
+      <DependentUpon>fkelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="flogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="flogin.designer.cs">
+      <DependentUpon>flogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmapel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmapel.designer.cs">
+      <DependentUpon>fmapel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSementara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSementara.Designer.cs">
+      <DependentUpon>FSementara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fsiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fsiswa.designer.cs">
+      <DependentUpon>fsiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fsoal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fsoal.designer.cs">
+      <DependentUpon>fsoal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fsplashcreeen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fsplashcreeen.designer.cs">
+      <DependentUpon>fsplashcreeen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fulangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fulangan.designer.cs">
+      <DependentUpon>fulangan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fuser.designer.cs">
+      <DependentUpon>fuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KF.cs" />
+    <Compile Include="logika.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQL.cs" />
+    <EmbeddedResource Include="fadmin.resx">
+      <DependentUpon>fadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCetak.resx">
+      <DependentUpon>FCetak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fguru.resx">
+      <DependentUpon>fguru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fhasil.resx">
+      <DependentUpon>fhasil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmengerjakan.resx">
+      <DependentUpon>fmengerjakan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHomeSiswa.resx">
+      <DependentUpon>fHomeSiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fjawaban.resx">
+      <DependentUpon>fjawaban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fkelas.resx">
+      <DependentUpon>fkelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="flogin.resx">
+      <DependentUpon>flogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmapel.resx">
+      <DependentUpon>fmapel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSementara.resx">
+      <DependentUpon>FSementara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fsiswa.resx">
+      <DependentUpon>fsiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fsoal.resx">
+      <DependentUpon>fsoal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fsplashcreeen.resx">
+      <DependentUpon>fsplashcreeen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fulangan.resx">
+      <DependentUpon>fulangan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fuser.resx">
+      <DependentUpon>fuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="anime.ico" />
+    <Content Include="raf,360x360,075,t,fafafa ca443f4786.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
